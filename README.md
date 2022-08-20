@@ -1,1 +1,1 @@
-My first readme. ALX made me do it.
+My first readme.
